@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Magic Life Counter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Player Life Counters</string>
+    <string name="txtPlayer1">Player 1</string>
+    <string name="txtPlayer2">Player 2</string>
+    <string name="txtPlayer3">Player 3</string>
+    <string name="txtPlayer4">Player 4</string>
+    <string name="startingLife">Starting Life: 100</string>
+</resources>
