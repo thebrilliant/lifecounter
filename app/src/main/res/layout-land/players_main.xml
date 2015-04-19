@@ -26,7 +26,8 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/startingLife" />
+                android:text="@string/startingLife"
+                android:id="@+id/stats"/>
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -88,7 +89,8 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/startingLife" />
+                android:text="@string/startingLife"
+                android:id="@+id/stats2" />
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -150,7 +152,8 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/startingLife" />
+                android:text="@string/startingLife"
+                android:id="@+id/stats3" />
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -212,7 +215,8 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/startingLife" />
+                android:text="@string/startingLife"
+                android:id="@+id/stats4" />
 
             <LinearLayout
                 android:layout_width="wrap_content"

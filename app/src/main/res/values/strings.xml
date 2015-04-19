@@ -9,4 +9,5 @@
     <string name="txtPlayer3">Player 3</string>
     <string name="txtPlayer4">Player 4</string>
     <string name="startingLife">Starting Life: 100</string>
+    <integer name="life">100</integer>
 </resources>
