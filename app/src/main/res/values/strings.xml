@@ -8,6 +8,10 @@
     <string name="txtPlayer2">Player 2</string>
     <string name="txtPlayer3">Player 3</string>
     <string name="txtPlayer4">Player 4</string>
+    <string name="txtPlayer5">Player 5</string>
+    <string name="txtPlayer6">Player 6</string>
+    <string name="txtPlayer7">Player 7</string>
+    <string name="txtPlayer8">Player 8</string>
     <string name="startingLife">Starting Life: 100</string>
     <integer name="life">100</integer>
 </resources>
