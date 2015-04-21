@@ -1,10 +1,7 @@
 package edu.washington.vivyanw.lifecounter;
 
 import android.app.Activity;
-//import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -126,33 +123,33 @@ public class MainActivity extends Activity {
                 p2Display.setVisibility(View.VISIBLE);
                 if (value.contains("3")) {
                     p3Display.setVisibility(View.VISIBLE);
-                    p4Display.setVisibility(View.GONE);
+                    /*p4Display.setVisibility(View.GONE);
                     p5Display.setVisibility(View.GONE);
                     p6Display.setVisibility(View.GONE);
                     p7Display.setVisibility(View.GONE);
-                    p8Display.setVisibility(View.GONE);
+                    p8Display.setVisibility(View.GONE);*/
                 } else if (value.contains("4")) {
                     p3Display.setVisibility(View.VISIBLE);
                     p4Display.setVisibility(View.VISIBLE);
-                    p5Display.setVisibility(View.GONE);
+                    /*p5Display.setVisibility(View.GONE);
                     p6Display.setVisibility(View.GONE);
                     p7Display.setVisibility(View.GONE);
-                    p8Display.setVisibility(View.GONE);
+                    p8Display.setVisibility(View.GONE);*/
                 } else if (value.contains("5")) {
                     p3Display.setVisibility(View.VISIBLE);
                     p4Display.setVisibility(View.VISIBLE);
                     p5Display.setVisibility(View.VISIBLE);
-                    p6Display.setVisibility(View.GONE);
+                    /*p6Display.setVisibility(View.GONE);
                     p7Display.setVisibility(View.GONE);
-                    p8Display.setVisibility(View.GONE);
+                    p8Display.setVisibility(View.GONE);*/
 
                 } else if(value.contains("6")) {
                     p3Display.setVisibility(View.VISIBLE);
                     p4Display.setVisibility(View.VISIBLE);
                     p5Display.setVisibility(View.VISIBLE);
                     p6Display.setVisibility(View.VISIBLE);
-                    p7Display.setVisibility(View.GONE);
-                    p8Display.setVisibility(View.GONE);
+                    /*p7Display.setVisibility(View.GONE);
+                    p8Display.setVisibility(View.GONE);*/
 
                 } else if(value.contains("7")) {
                     p2Display.setVisibility(View.VISIBLE);
@@ -161,8 +158,7 @@ public class MainActivity extends Activity {
                     p5Display.setVisibility(View.VISIBLE);
                     p6Display.setVisibility(View.VISIBLE);
                     p7Display.setVisibility(View.VISIBLE);
-                    p7Display.setVisibility(View.GONE);
-                    p8Display.setVisibility(View.GONE);
+                    //p8Display.setVisibility(View.GONE);
 
                 } else if (value.contains("8")) {
                     p2Display.setVisibility(View.VISIBLE);
